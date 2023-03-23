@@ -8,4 +8,8 @@ The only other things you need to know are:
 - 'npm start' to run the app, with the api listinening at http://localhost:3000
 - 'npm test' to run the tests. 
 
+The endpoints that you will need to call are:
+- /tokenize
+- /detokenize
+
 Cam
